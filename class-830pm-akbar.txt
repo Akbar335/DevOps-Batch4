@@ -1,0 +1,73 @@
+SDLC - soft 
+
+waterfall - 1 year - 
+
+agile method - 
+
+devops lifecycle 
+
+code - testing --> code quailty (sonar scan ) --> build --> deploy == automate = devops 
+
+dev+ops 
+
+1 year - scrum master = 20 
+
+
+devops codeing - scripting 
+
+python or shell script ()
+pipeline = CI + CD 
+pipeline = code + test + build + deploy 
+
+code developer 
+SCM = source code repositary
+github
+gitlab
+bitbucket
+git
+
+ci 
+jenkins
+bamboo 
+
+CD - continues deployment/devivery
+
+ansible -  configuration management tool
+
+Docker + docker swarm 
+kubernaties
+---------------
+cloud - aws 
+
+Terraform Iac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
